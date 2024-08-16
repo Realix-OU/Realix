@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TecnoEsencial Perú - Tecnología para tu día a día</title>
+    <style>
+        /* Aquí puedes agregar estilos CSS básicos */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        main {
+            padding: 2rem;
+        }
+        .producto {
+            border: 1px solid #ddd;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>TecnoEsencial Perú</h1>
+        <p>Tecnología esencial para tu día a día</p>
+    </header>
+    <main>
+        <section id="productos">
+            <h2>Nuestros Productos</h2>
+            <div class="producto">
+                <h3>Smartphone Básico</h3>
+                <p>Dispositivo esencial para comunicación y acceso a internet.</p>
+                <p>Precio: S/. 299</p>
+            </div>
+            <div class="producto">
+                <h3>Laptop Multitarea</h3>
+                <p>Ideal para trabajo y estudio desde casa.</p>
+                <p>Precio: S/. 1299</p>
+            </div>
+            <!-- Agrega más productos aquí -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 TecnoEsencial Perú. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
